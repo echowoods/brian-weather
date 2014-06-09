@@ -1,10 +1,9 @@
 <?php
 /*
-Plugin Name: The Best Weather Plugin
 Plugin Name: The Best Weather Plugin Made by Brian
 Description: Get the weather of you favorite city!
 Version: 0.1
-Author: Brian
+Author: Brian Sanders
 */
 
 function add_jquery(){
