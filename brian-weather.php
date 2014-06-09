@@ -15,7 +15,6 @@ add_action('wp_enqueue_scripts', 'add_jquery');
 
 //added this line of code
 
-//add more comment
 //add more comment to pivotal
 
 function show_weather() {
