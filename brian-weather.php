@@ -15,6 +15,8 @@ add_action('wp_enqueue_scripts', 'add_jquery');
 
 //added this line of code
 
+//add more comment
+
 function show_weather() {
   $key = get_option('brianweather-setting');
   $state = get_option('brianweather-setting-2');
