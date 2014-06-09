@@ -2,7 +2,7 @@
 /*
 Plugin Name: The Best Weather Plugin Made by Brian
 Description: Get the weather of you favorite city!
-Version: 0.1
+Version: 0.0.1
 Author: Brian Sanders
 */
 
