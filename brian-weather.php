@@ -11,6 +11,7 @@ function add_jquery(){
 }
 
 add_action('wp_enqueue_scripts', 'add_jquery');
+//add this line of code
 
 //add code change
 
